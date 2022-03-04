@@ -13,7 +13,7 @@ pip install gamest-retroachievements-plugin
 
 ## License
 
-Copyright (C) 2018  Tracy Poff
+Copyright (C) 2022  Tracy Poff
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
